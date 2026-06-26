@@ -1,0 +1,22 @@
+Machine Learning Engineer
+
+Join our AI team to build intelligent products that serve millions of users.
+
+Requirements:
+- 3+ years experience in machine learning or data science
+- Proficiency in Python with ML frameworks (TensorFlow, PyTorch, or Scikit-learn)
+- Experience with NLP or computer vision projects
+- Familiarity with model deployment and MLOps
+- Strong understanding of statistics and mathematics
+- Experience with SQL and data pipelines
+
+Preferred Qualifications:
+- Experience with Hugging Face Transformers or LangChain
+- Knowledge of LLM fine-tuning
+- Published research papers
+- Experience with Docker/Kubernetes for model deployment
+- AWS or GCP experience
+
+Education:
+Master's degree in Computer Science, Data Science, or related field preferred.
+Bachelor's with strong ML experience also considered.
