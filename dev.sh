@@ -19,7 +19,7 @@ cleanup() {
 # Backend
 echo -e "${YELLOW}Starting backend...${NC}"
 cd "$PROJECT_ROOT/backend" || exit 1
-python run.py > /tmp/backend.log 2>&1 &
+./venv/bin/python run.py > /tmp/backend.log 2>&1 &
 BACKEND_PID=$!
 echo -e "${GREEN}Backend PID: $BACKEND_PID${NC} → http://localhost:8000"
 echo "  tail -f /tmp/backend.log"
