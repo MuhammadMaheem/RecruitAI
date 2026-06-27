@@ -5,6 +5,11 @@
   "env": {
     "NEXT_PUBLIC_API_URL": "https://recruitai-production.up.railway.app"
   },
+  "build": {
+    "env": {
+      "NEXT_PUBLIC_API_URL": "https://recruitai-production.up.railway.app"
+    }
+  },
   "headers": [
     {
       "source": "/(.*)",
