@@ -4,6 +4,9 @@
 
 An intelligent recruitment assistant that screens resumes, extracts structured candidate data, and ranks applicants against job descriptions using Groq LLM, ChromaDB semantic search, and a 100-point explainable scoring engine.
 
+**Live Demo:** [https://recruit-ai-mu.vercel.app](https://recruit-ai-mu.vercel.app)  
+**Backend API:** [https://recruitai-production.up.railway.app/docs](https://recruitai-production.up.railway.app/docs)
+
 ---
 
 ## Screenshots
@@ -352,8 +355,10 @@ Full API reference: [docs/api_reference.md](docs/api_reference.md)
 
 1. Import repo into [vercel.com](https://vercel.com)
 2. Set root directory to `task 2/frontend`
-3. Add env var: `NEXT_PUBLIC_API_URL=https://your-backend.railway.app`
+3. Add env var: `NEXT_PUBLIC_API_URL=https://recruitai-production.up.railway.app`
 4. Deploy — `vercel.json` handles the rest
+
+**Deployed at:** [https://recruit-ai-mu.vercel.app](https://recruit-ai-mu.vercel.app)
 
 ### Backend → Railway
 
